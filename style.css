@@ -147,10 +147,6 @@ body {
     0px -4px 2px rgba(71, 71, 71, 0.6);
 }
 
-.list-container ul li:nth-child(2) {
-  /* background-color: #0753b6fd; */
-}
-
 .list-container ul li {
   display: flex;
   align-items: center;
